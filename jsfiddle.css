@@ -1,0 +1,18 @@
+#slider-r {
+    background: #f00;
+}
+#slider-g {
+    background: #0f0;
+}
+#slider-b {
+    background: #00f;
+}
+#slider-r-div .ui-slider-bg {
+    background-image: -webkit-gradient(linear, left top, right top, from(#600), to(#F00));
+}
+#slider-g-div .ui-slider-bg {
+    background-image: -webkit-gradient(linear, left top, right top, from(#060), to(#0F0));
+}
+#slider-b-div .ui-slider-bg {
+    background-image: -webkit-gradient(linear, left top, right top, from(#006), to(#00F));
+}
